@@ -1,5 +1,5 @@
 # **Going Global: Market Analysis For An EdTech Company**
-*Sofia Chevrolat (2020 May)*
+*Sofia Chevrolat (May 2020)*
 ___
 > **NB** : This project is the first of a series comprising the [syllabus offered by OpenClassrooms in partnership with Centrale Supélec and sanctioned by the Data Scientist diploma - Master level](https://openclassrooms.com/fr/paths/164-data-scientist).
 
