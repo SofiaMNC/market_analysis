@@ -1,7 +1,7 @@
 # **Going Global: Market Analysis For An EdTech Company**
 *Sofia Chevrolat (May 2020)*
 ___
-> **NB** : This project is the 1st of a series of 8 projects comprising the [syllabus offered by OpenClassrooms in partnership with Centrale Supélec and sanctioned by the Data Scientist diploma - Master level](https://openclassrooms.com/fr/paths/164-data-scientist).
+> **NB** : This project is the 2nd of a series of 8 projects comprising the [syllabus offered by OpenClassrooms in partnership with Centrale Supélec and sanctioned by the Data Scientist diploma - Master level](https://openclassrooms.com/fr/paths/164-data-scientist).
 
 
 This notebook aims to study the feasability of exploiting the contents of the Data World Bank's _“EdStats All Indicator Query”_ database, consisting of about 4000 indicators on the theme of the education of populations worldwide, as part of a project of international expansion lead by the fictional start-up EdTech Academy. 
