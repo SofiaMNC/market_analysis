@@ -3,6 +3,7 @@
 ___
 > **NB** : This project is the 2nd of a series of 8 projects comprising the [syllabus offered by OpenClassrooms in partnership with Centrale Supélec and sanctioned by the Data Scientist diploma - Master level](https://openclassrooms.com/fr/paths/164-data-scientist).
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://madimedia.pro)
 
 This notebook aims to study the feasability of exploiting the contents of the Data World Bank's _“EdStats All Indicator Query”_ database, consisting of about 4000 indicators on the theme of the education of populations worldwide, as part of a project of international expansion lead by the fictional start-up EdTech Academy. 
 Based in France, the company offers online classes and cursus aimed at highschool and university level customers.
